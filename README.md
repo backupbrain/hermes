@@ -1,5 +1,7 @@
 # Hermes
 
+Are you seeing this on GitHub? You can view this on it's [Home page](https://backupbrain.github.io/hermes/).
+
 Hermes is a lightweight  [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface) web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as an easy way to make database-driven APIs and web applications without the need for complex server configuration.
 
 ### Friendly and Unopinionated
